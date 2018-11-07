@@ -1,2 +1,2 @@
 # Terraform
-Terraform codes for automation,testin and learning.
+Terraform examples for training and learning and later for use.
