@@ -7,7 +7,9 @@ https://github.com/terraform-providers/terraform-provider-azurerm/tree/master/ex
 
 
 main.tf
+
 The main.tf file contains the actual resources that will be deployed. It also contains the Azure Resource Group definition and any defined variables.
 
 outputs.tf
+
 This data is outputted when terraform apply is called, and can be queried using the terraform output command.
